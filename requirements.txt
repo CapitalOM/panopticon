@@ -32,6 +32,7 @@ defusedxml==0.7.1
 diskcache==5.6.1
 distro==1.8.0
 docopt==0.6.2
+dotenv
 exceptiongroup==1.0.4
 executing==1.2.0
 fastjsonschema==2.16.3
