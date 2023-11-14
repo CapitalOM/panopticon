@@ -1,5 +1,5 @@
 # Panopticon
 
-Panopticon is a summarize
+Panopticon is a summarizer
 
 ## Install
