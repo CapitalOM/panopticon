@@ -21,4 +21,4 @@ Panopticon is a LLM-assisted Panopto lecture scraper and summarizer for Harvard 
 
 ### Cloud Hosted
 
-* TBD
+* Access the application via this [link](https://panopticon.streamlit.app/) hosted by Streamlit Cloud.
