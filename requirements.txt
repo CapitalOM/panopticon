@@ -1,0 +1,7 @@
+selenium
+time
+undetected-chromedriver
+streamlit
+pandas
+numpy
+openai
