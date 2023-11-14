@@ -1,8 +1,6 @@
 streamlit
 pandas
 numpy
-time
-os
 dotenv
 undetected_chromedriver
 selenium
