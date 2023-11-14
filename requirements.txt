@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-dotenv
-undetected_chromedriver
+python-dotenv
+undetected-chromedriver
 selenium
 openai
